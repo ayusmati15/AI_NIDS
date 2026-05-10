@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+*.db
+*.sqlite3
+datasets/live_traffic.csv
+datasets/window_features.csv
