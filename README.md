@@ -24,4 +24,4 @@ It simulates a real-world cybersecurity monitoring system with data processing, 
 - Interactive dashboard
 - Dataset generation tools
 <img width="1562" height="899" alt="image" src="https://github.com/user-attachments/assets/b359e7d2-aa22-48f6-88aa-16e33f78a397" />
-<img width="1562" height="899" alt="image" src="https://github.com/user-attachments/assets/2ad1cc83-9b4d-4a3a-aa6d-a0933fc5edfc" />
+
